@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/enriquefar_?igsh=MXdtbmwyOTRzdXYxZQ%3D%3D&utm_source=qr)
 
 
 # 💻 Tech Stack:
